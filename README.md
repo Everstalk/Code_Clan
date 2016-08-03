@@ -1,5 +1,5 @@
 # Code_Clan
-A social network web app for bloggers. (Not completed)
+# A social network web app for bloggers. (Not completed).
 --------------------------------------
 Code_Clan was initially a treehouse social network web app project which I decided to pivot into an app geared towards linking bloggers.
 ----
