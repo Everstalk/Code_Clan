@@ -8,3 +8,4 @@ Built with Python Flask Framework, Sqlite database and Peewee ORM.
 Additional packages include:
 Flask-bcrypt for password hashing, 
 Flask-login, a login manager package.
+ 
