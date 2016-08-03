@@ -1,4 +1,4 @@
-# Code_Clan
+# Code_Clan:
 ===========
 A social network web app for bloggers. (Not completed)
 --------------------------------------
