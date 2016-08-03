@@ -10,4 +10,6 @@ Additional packages include:
 Flask-bcrypt for password hashing, 
 Flask-login, a login manager package.
 
-Feel free to contribute to this project by adding features, fixing bugs etc. The sky is the limit!
+Feel free to contribute to this project by adding features, fixing bugs etc since its no where near complete. 
+
+The sky is the limit!
