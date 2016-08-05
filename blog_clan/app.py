@@ -157,11 +157,11 @@ def unfollow(username):
   
 if __name__ == '__main__':
     models.initialize()
-    try:
+    try:   #Creating an admin user
         models.User.create_user(
-            username='everstalk',
-            email='delasi208@yahoo.com',
-            password='chemacks2000',
+            username=""" Your username here """,
+            email=""" Your email here """,
+            password=""" Your password here """,
             admin=True
         )
     except ValueError:
